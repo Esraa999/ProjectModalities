@@ -1,8 +1,6 @@
 # Task1Modalities
 
 Team Members:
-
-
 <br /> 
 Esraa Hosam <br /> 		
 Menna El Khodary <br />  	
