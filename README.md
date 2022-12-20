@@ -1,4 +1,4 @@
-# Task1Modalities
+# ProjectModalities
 
 Team Members:
 <br /> 
